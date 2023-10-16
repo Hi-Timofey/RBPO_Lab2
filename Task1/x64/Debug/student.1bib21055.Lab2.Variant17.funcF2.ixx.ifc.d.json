@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\visualstudio\\derictories\\lab2_rbpo\\task1\\student.1bib21055.lab2.variant17.funcf2.ixx",
+        "ProvidedModule": "student_1bib21801_Lab2_Variant11_Task4:funcF2",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "d:\\visualstudio\\community\\vc\\tools\\msvc\\14.37.32822\\include\\cmath",
+                "BMI": "D:\\VisualStudio\\Derictories\\Lab2_RBPO\\Task1\\x64\\Debug\\cmath_XNC1FIBIDD5WXCSX.ifc"
+            }
+        ]
+    }
+}

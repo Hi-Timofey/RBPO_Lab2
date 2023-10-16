@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\visualstudio\\lab2_rbpo\\task1\\student.1bib21044.lab2.variant10.task4.ixx",
+        "ProvidedModule": "student_1bib21044_Lab2_Variant10_Task4",
+        "ImportedModules": [
+            "student_1bib21044_Lab2_Variant10_Task4:funcF1",
+            "student_1bib21044_Lab2_Variant10_Task4:funcF2",
+            "student_1bib21044_Lab2_Variant10_Task4:funcA",
+            "student_1bib21044_Lab2_Variant10_Task4:funcF3",
+            "student_1bib21044_Lab2_Variant10_Task4:funcF4"
+        ],
+        "ImportedHeaderUnits": [
+            "D:\\VisualStudio\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\cmath"
+        ]
+    }
+}

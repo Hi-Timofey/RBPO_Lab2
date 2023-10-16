@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\cmath_XNC1FIBIDD5WXCSX.obj",
+            "outputs": [
+                "D:\\VisualStudio\\Derictories\\Lab2_RBPO\\Task1\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\cmath_XNC1FIBIDD5WXCSX.module.json",
+                "x64\\Debug\\cmath_XNC1FIBIDD5WXCSX.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\VisualStudio\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\cmath",
+                    "source-path": "d:\\visualstudio\\community\\vc\\tools\\msvc\\14.37.32822\\include\\cmath",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

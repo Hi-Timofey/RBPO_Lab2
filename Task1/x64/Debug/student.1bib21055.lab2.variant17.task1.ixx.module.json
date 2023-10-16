@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\student.1bib21055.Lab2.Variant17.Task1.ixx.obj",
+            "outputs": [
+                "D:\\VisualStudio\\Derictories\\Lab2_RBPO\\Task1\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\VisualStudio\\Derictories\\Lab2_RBPO\\Task1\\x64\\Debug\\student.1bib21055.Lab2.Variant17.Task1.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "student_1bib21801_Lab2_Variant11_Task1",
+                    "source-path": "d:\\visualstudio\\derictories\\lab2_rbpo\\task1\\student.1bib21055.lab2.variant17.task1.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "cmath",
+                    "source-path": "D:\\VisualStudio\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\cmath",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}

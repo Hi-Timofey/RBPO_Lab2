@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\visualstudio\\lab2_rbpo\\task1\\student.1bib21801.lab2.variant11.task5.ixx",
+        "ProvidedModule": "student_1bib21044_Lab2_Variant10_Task5",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "d:\\visualstudio\\community\\vc\\tools\\msvc\\14.37.32822\\include\\cmath",
+                "BMI": "D:\\VisualStudio\\Lab2_RBPO\\Task1\\x64\\Debug\\cmath_XNC1FIBIDD5WXCSX.ifc"
+            }
+        ]
+    }
+}

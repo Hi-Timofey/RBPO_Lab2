@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\student.1bib21055.Lab2.Variant17.Task2.ixx.obj",
+            "outputs": [
+                "D:\\VisualStudio\\Derictories\\Lab2_RBPO\\Task1\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "D:\\VisualStudio\\Derictories\\Lab2_RBPO\\Task1\\x64\\Debug\\student.1bib21055.Lab2.Variant17.Task2.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "student_1bib21801_Lab2_Variant11_Task2",
+                    "source-path": "d:\\visualstudio\\derictories\\lab2_rbpo\\task1\\student.1bib21055.lab2.variant17.task2.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

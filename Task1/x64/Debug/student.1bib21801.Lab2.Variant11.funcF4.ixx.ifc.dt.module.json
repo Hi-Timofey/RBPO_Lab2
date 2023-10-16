@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\visualstudio\\lab2_rbpo\\task1\\student.1bib21801.lab2.variant11.funcf4.ixx",
+        "ProvidedModule": "student_1bib21044_Lab2_Variant10_Task4:funcF4",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "D:\\VisualStudio\\Community\\VC\\Tools\\MSVC\\14.37.32822\\include\\cmath"
+        ]
+    }
+}
